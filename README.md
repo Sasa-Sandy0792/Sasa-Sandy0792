@@ -97,17 +97,7 @@ Arduino-based smart detection solution using sensors and embedded programming.
 
 ---
 
-# 📈 GitHub Stats
 
-![Sandile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasa-Sandy0792&show_icons=true&theme=default)
-
----
-
-# 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasa-Sandy0792&layout=compact)
-
----
 
 ## ⚡ Fun Fact
 
