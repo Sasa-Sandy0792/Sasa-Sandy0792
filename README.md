@@ -43,7 +43,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandile-macia-machabane-9b9333a9)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-17375E?style=for-the-badge)](https://https://sasa-sandy0792.github.io/My-Portfolio//)
+[![Portfolio](https://img.shields.io/badge/Portfolio-17375E?style=for-the-badge)](https://sasa-sandy0792.github.io/My-Portfolio//)
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sandilemashabane@gmail.com)
 
