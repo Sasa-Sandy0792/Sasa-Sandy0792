@@ -35,7 +35,7 @@
 
 **Personal Website**
 
-👉 **https://sasa-sandy0792.github.io/My-CV/**
+👉 **https://sasa-sandy0792.github.io/My-Portfolio/*
 
 ---
 
